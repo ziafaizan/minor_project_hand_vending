@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May  5 17:56:52 2020
-
-@author: Swapnil Sangal
+@author: Faizan Zia
 """
 
 import tensorflow as tf
